@@ -27,7 +27,7 @@ These instructions will help you set up and run the project on your local machin
 ## Installation
 
 1. Clone the repository:
-   - `git clone https://github.com/bipsig/api-authentication-project.git`
+   - `git clone https://github.com/bipsig/the-secrets-diary`
 
 2. Navigate to the project directory:
    - `cd api-authentication-project`
